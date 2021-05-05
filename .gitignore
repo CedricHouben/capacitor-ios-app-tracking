@@ -1,5 +1,4 @@
 # .gitignore 
-node_modules
+node_modules/
 .vscode
-package-lock.json
-capacitor-ios-app-tracking-0.1.0.tgz
+capacitor-ios-app-tracking-0.1.1.tgz
